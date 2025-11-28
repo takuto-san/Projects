@@ -1,0 +1,23 @@
+EIP = 7C00, Code = E8
+EIP = 7C0A, Code = 55
+EIP = 7C0B, Code = 89
+EIP = 7C0D, Code = 83
+EIP = 7C10, Code = C7
+EIP = 7C17, Code = 83
+EIP = 7C1B, Code = 8B
+EIP = 7C1E, Code = C9
+EIP = 7C1F, Code = C3
+EIP = 7C05, Code = E9
+
+
+end of program.
+
+EAX = 00000029
+ECX = 00000000
+EDX = 00000000
+EBX = 00000000
+ESP = 00007c00
+EBP = 00000000
+ESI = 00000000
+EDI = 00000000
+EIP = 00000000

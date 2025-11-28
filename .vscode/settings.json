@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "emulator_function.h": "c",
+        "instruction.h": "c",
+        "emulator.h": "c",
+        "assert.h": "c",
+        "modrm.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "io.h": "c"
+    }
+}
