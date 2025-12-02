@@ -1,0 +1,28 @@
+> wine ./boots/boots.exe ./pbr.bin
+Calculated fat type is FAT32
+BS_jmpBoot:         eb 58 90
+BS_OEMName:         THREES
+BPB_BytsPerSec:     512
+BPB_SecPerClus:     32
+BPB_RsvdSecCnt:     69
+BPB_NumFATs:        2
+BPB_RootEntCnt:     0
+BPB_TotSec16:       0
+BPB_Media:          f8
+BPB_FATSz16:        0
+BPB_SecPerTrk:      63
+BPB_NumHeads:       32
+BPB_HiddSec:        63
+BPB_TotSec32:       60560577
+BPB_FATSz32:        14782
+BPB_ExtFlag:        0
+BPB_FSVer:          0.0
+BPB_RootClus:       2
+BPB_FSInfo:         1
+BPB_BkBootSec:      6
+BS_DrvNum:          0
+BS_Reserved1:       0
+BS_BootSig:         41
+BS_VolID:           129d2d83
+BS_VolLab:          KIOXIA
+BS_FilSysType:      FAT32

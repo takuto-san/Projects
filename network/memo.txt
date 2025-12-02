@@ -1,0 +1,15 @@
+httplab -p 8080
+
+https://github.com/qustavo/httplab/blob/master/cmd/httplab/main.go
+
+HTTP/1.1
+https://www.rfc-editor.org/rfc/rfc9112
+HTTP/2
+https://www.rfc-editor.org/rfc/rfc9113
+
+
+---
+docker-compose up --build -d // コンテナのビルド
+docker-compose exec app bash // 操作したいとき
+curl http://localhost:8080/db-test
+docker compose exec db psql -U user -d testdb
